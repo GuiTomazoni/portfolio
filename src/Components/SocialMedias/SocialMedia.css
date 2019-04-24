@@ -1,0 +1,21 @@
+.redesSociais{
+    display: flex;
+    justify-content: space-between;
+    flex-direction: column;
+}
+
+.facebook:hover {
+color: rgb(23, 23, 139);
+}
+
+.github:hover{
+    color: black;
+}
+
+.linkedin:hover{
+    color: rgb(4, 177, 245);
+}
+
+.instagram:hover{
+    color: rgba(206, 126, 22, 0.932);
+}

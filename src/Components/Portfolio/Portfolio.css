@@ -1,0 +1,12 @@
+.centraliza{
+    text-align: center !important;
+}
+
+.backgroundPortfolio{
+    background-color: lightslategray;
+}
+
+.cards{
+    display: flex;
+    width: 18rem;
+}

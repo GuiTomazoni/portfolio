@@ -1,12 +1,9 @@
 .centraliza{
-    text-align: center !important;
-}
-
-.backgroundPortfolio{
-    background-color: lightslategray;
+    text-align: center;
 }
 
 .cards{
     display: flex;
-    width: 18rem;
+    justify-content: center;
+    justify-content: space-around;
 }
